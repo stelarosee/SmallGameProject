@@ -1,2 +1,2 @@
 # SmallGameProject
-I have too much work with uni so I start a new project so I can complain even more :) 
+A small flip7 game just to experiment with Godot and aseprite! 
